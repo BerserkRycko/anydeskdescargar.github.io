@@ -6,7 +6,7 @@
     <description>Recent content on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>Copyright (c) 2020, rycko.online; all rights reserved.</copyright>
+    <copyright>https://rycko.online</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anydeskdescargar.online/index.xml" rel="self" type="application/rss+xml" />
@@ -122,6 +122,15 @@ pectora summo.&lt;/p&gt;</description>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
+    </item>
+    
+    <item>
+      <title>cookies</title>
+      <link>https://anydeskdescargar.online/cookies/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anydeskdescargar.online/cookies/</guid>
+      <description>Asegúrese de que las páginas web pueden funcionar correctamenteAlmacene sus preferencias, como el idioma que ha seleccionado o el tamaño de la fuente.Conozca su experiencia de navegación.Recopilar información estadística anónima, como las páginas que ha visto o el tiempo que lleva en nuestros medios de comunicación.El uso de Cookies nos permite optimizar su navegación, adaptando la información y servicios ofrecidos a sus intereses, para proporcionarle una mejor experiencia cada vez que nos visite.</description>
     </item>
     
   </channel>
