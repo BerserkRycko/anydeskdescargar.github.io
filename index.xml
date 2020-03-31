@@ -6,7 +6,7 @@
     <description>Recent content on Hugo Themes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <copyright>https://rycko.online</copyright>
+    <copyright>rycko.online</copyright>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://anydeskdescargar.online/index.xml" rel="self" type="application/rss+xml" />
@@ -130,7 +130,18 @@ Hugo makes use of a variety of open source projects including:
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://anydeskdescargar.online/cookies/</guid>
-      <description>Asegúrese de que las páginas web pueden funcionar correctamenteAlmacene sus preferencias, como el idioma que ha seleccionado o el tamaño de la fuente.Conozca su experiencia de navegación.Recopilar información estadística anónima, como las páginas que ha visto o el tiempo que lleva en nuestros medios de comunicación.El uso de Cookies nos permite optimizar su navegación, adaptando la información y servicios ofrecidos a sus intereses, para proporcionarle una mejor experiencia cada vez que nos visite.</description>
+      <description>Política de Cookies ¿Qué son las Cookies y cómo las utilizamos? Las cookies son archivos que el sitio web o la aplicación que usted utiliza instala en su navegador o en su dispositivo (Smartphone, tablet o televisión conectada) durante su visita a las páginas o por la aplicación, y sirven para almacenar información sobre su visita. Como la mayoría de los sitios web, https://descargaranydesk.com utiliza Cookies para:
+Asegúrese de que las páginas web pueden funcionar correctamente Almacene sus preferencias, como el idioma que ha seleccionado o el tamaño de la fuente.</description>
+    </item>
+    
+    <item>
+      <title>Políticas de privacidad</title>
+      <link>https://anydeskdescargar.online/politicas-de-privacidad/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://anydeskdescargar.online/politicas-de-privacidad/</guid>
+      <description>Política de privacidad Qué datos personales recogemos y por qué los recogemos Comentarios Cuando los visitantes dejan comentarios en la web, recopilamos los datos que se muestran en el formulario de comentarios, así como la dirección IP del visitante y la cadena de agentes de usuario del navegador para ayudar a la detección de spam.
+Una cadena anónima creada a partir de tu dirección de correo electrónico (también llamada hash) puede ser proporcionada al servicio de Gravatar para ver si la estás usando.</description>
     </item>
     
   </channel>
