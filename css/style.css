@@ -4,3 +4,13 @@ p{
 h2, p{
 	width: 100%;
 }
+.imagen-descargar-anydesk{
+	width: 80%;
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+}
+.imagen-descargar-anydesk img{
+	width: 100%;
+
+}
