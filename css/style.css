@@ -12,5 +12,7 @@ h2, p{
 }
 .imagen-descargar-anydesk img{
 	width: 100%;
-
+}
+.article-body p img{
+	width: 80%;
 }

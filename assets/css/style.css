@@ -278,3 +278,7 @@ blockquote p cite {
 blockquote p cite:before {
   content: "\2014 \2009";
 }
+img[title=anydesk-mac], img[title=anydesk-linux], img[title=anydesk-windows]{
+  width: 100%;
+  position: relative;
+}
